@@ -1,0 +1,22 @@
+.color-picker {
+  background: #ffffff;
+  padding: 20px 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.color-picker label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.color-picker input[type="color"] {
+  width: 80px;
+  height: 50px;
+  border: none;
+  cursor: pointer;
+  background: none;
+}
